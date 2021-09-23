@@ -218,5 +218,5 @@ if __name__ == '__main__':
         # Update the map based on the current information of laser scanner and get the updated map.
         current_map = controller.update_map()
 
-    # # Stop the simulation.
+    # Stop the simulation.
     controller.stop_simulation()
